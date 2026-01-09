@@ -60,11 +60,6 @@ Cada disciplina segue a mesma estrutura para consistência:
   - rastreável (origem: aula, livro, artigo, paper)
   - reprodutível (passos, parâmetros, versão de libs quando houver)
 
-## Status
-
-- Curso: **Início em 01/02/2026**
-- Trilha prioritária: **IA • Redes Neurais • Engenharia de ML**
-
 ## Licença
 
 Este repositório é para fins educacionais e de pesquisa pessoal. Caso você pretenda reutilizar algo, consulte as referências e respeite direitos autorais, especialmente de livros e materiais de terceiros.
