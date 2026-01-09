@@ -1,6 +1,6 @@
 # Engenharia de Software (UniRV) — Base de Conhecimento
 
-Este repositório documenta, organiza e consolida meus estudos ao longo do curso de **Engenharia de Software**, com início em **01/02/2026**.  
+Este repositório documenta, organiza e consolida meus estudos ao longo do curso de **Engenharia de Software**.
 O foco é transformar cada disciplina em conhecimento aplicável, com registro de teoria, exercícios, implementações, erros, correções e reflexões críticas — com ênfase em **IA, Ciência de Dados e Redes Neurais**.
 
 ## Objetivos
