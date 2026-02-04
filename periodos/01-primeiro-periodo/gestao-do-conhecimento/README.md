@@ -1,120 +1,147 @@
-# 📚 Gestão do Conhecimento — 1º/2026
+# 📚 Gestão do Conhecimento — 2026/1°
 
-Este repositório reúne meus estudos, anotações, reflexões e aplicações práticas da disciplina **Gestão do Conhecimento**, cursada no 1º semestre de 2026 no curso de Engenharia de Software.
+Este repositório documenta os estudos, análises, exercícios e reflexões da disciplina
+**Gestão do Conhecimento **, do curso de **Engenharia de Software**, cursada no
+1º semestre de 2026.
 
-O objetivo deste material **não é apenas acadêmico**, mas sim construir uma base sólida sobre como o conhecimento é criado, organizado, compartilhado e aplicado em organizações — com conexões diretas com **tecnologia, sistemas de informação e inteligência artificial**.
+O material foi organizado com foco em **aprendizado profundo**, **pensamento crítico**
+e **integração entre teoria organizacional, tecnologia e inteligência artificial**.
+
+---
+
+## 🏫 Identificação da Disciplina
+
+- **Curso:** Engenharia de Software  
+- **Disciplina:** Gestão do Conhecimento  
+- **Semestre:** 2026/1  
+- **Carga Horária:** 72 horas (Teórica)  
+- **Docente:** Prof. Me. Emanuel Victor de Moura Oliveira Barros  
+
+---
+
+## 📖 Ementa
+
+- Sociedade do conhecimento  
+- Gestão do capital intelectual e ativos intangíveis  
+- Modelos de gestão e organização baseados em conhecimento  
+- Organização que aprende e aprendizagem organizacional  
+- Tecnologias para gestão do conhecimento  
+- Inovação  
 
 ---
 
 ## 🎯 Objetivos da Disciplina
 
-- Compreender a **sociedade do conhecimento** e seu impacto econômico, social e tecnológico  
-- Entender a **inovação** como fator estratégico (incremental, radical e disruptiva)  
-- Estudar os **processos de gestão do conhecimento** nas organizações  
-- Analisar o **capital intelectual** e os ativos intangíveis  
-- Investigar o papel da **tecnologia e da IA** no apoio à gestão do conhecimento  
-- Desenvolver visão crítica sobre **aprendizagem organizacional** e organizações que aprendem  
+### Objetivo Geral
+Compreender e aplicar os princípios da **Gestão do Conhecimento** nas organizações,
+desenvolvendo a capacidade de identificar, organizar, compartilhar e utilizar o
+conhecimento como **ativo estratégico** para a inovação, competitividade e
+aprendizagem organizacional.
+
+### Objetivos Específicos
+- Compreender a sociedade do conhecimento e seus impactos econômicos e organizacionais  
+- Reconhecer o valor do capital intelectual e dos ativos intangíveis  
+- Analisar modelos de gestão baseados em conhecimento  
+- Identificar práticas de organização do conhecimento e aprendizagem organizacional  
+- Relacionar gestão do conhecimento, inovação e tomada de decisão  
+- Aplicar tecnologias da informação e comunicação voltadas à gestão do conhecimento  
+- Analisar casos reais de gestão do conhecimento  
 
 ---
 
 ## 🧠 Estrutura do Repositório
 
----
+A organização do conteúdo segue uma **progressão cognitiva**, alinhada ao plano de ensino
+e à forma como o conhecimento é consolidado ao longo do semestre:
+
 
 ### 📂 01 — Fundamentos Teóricos
-Contém os conceitos iniciais da disciplina, incluindo:
+Conteúdos da **Unidade I**:
 - Sociedade do conhecimento  
-- Informação e tecnologia como recursos estratégicos  
-- Base conceitual necessária para compreensão dos demais temas  
+- Dados, informação e conhecimento  
+- Capital intelectual e ativos intangíveis  
+- Importância estratégica do conhecimento  
+- Evolução da gestão do conhecimento  
 
 ---
 
 ### 📂 02 — Conceitos e Modelos
-Explora modelos e frameworks, como:
-- Tipos de inovação  
-- Processos de gestão do conhecimento  
-- Capital intelectual  
-- Ativos intangíveis  
-- Modelos organizacionais baseados em conhecimento  
+Conteúdos da **Unidade II**:
+- Modelos de gestão do conhecimento  
+- Processos de criação, compartilhamento, armazenamento e uso do conhecimento  
+- Cultura organizacional  
+- Tecnologias para gestão do conhecimento  
+- Sistemas de informação e apoio à decisão  
 
 ---
 
 ### 📂 03 — Exercícios e Listas
-Espaço dedicado a:
 - Questões discursivas  
-- Simulações de provas  
 - Exercícios conceituais  
-- Fixação e treino de argumentação  
+- Simulações de provas (G1, G2, G3)  
+- Treino de argumentação teórica  
 
 ---
 
 ### 📂 04 — Implementações Práticas
-Aplicação dos conceitos em contextos reais ou simulados, como:
-- Organizações e sistemas de informação  
-- Analogias com arquitetura de software  
 - Estudos de caso  
-- GC como sistema estruturado de decisão  
+- Aplicações práticas dos conceitos  
+- Simulações organizacionais  
+- Analogias com sistemas de software e arquitetura da informação  
 
 ---
 
 ### 📄 05 — Conexões com IA
-Arquivo dedicado a relacionar a disciplina com:
+Relações entre Gestão do Conhecimento e:
 - Inteligência Artificial  
 - Machine Learning  
 - Sistemas cognitivos  
-- Aprendizado contínuo  
-- Feedback loops e tomada de decisão automatizada  
+- Aprendizagem contínua  
+- Tomada de decisão baseada em dados e conhecimento  
 
 ---
 
 ### 📄 06 — Reflexões Críticas
-Registro de reflexões pessoais e análises críticas sobre:
-- Limitações dos modelos estudados  
-- Impactos organizacionais e tecnológicos  
-- Relação entre conhecimento humano e sistemas inteligentes  
+- Análises pessoais  
+- Reflexões sobre limitações e desafios da GC  
+- Integração entre teoria organizacional e tecnologia  
+- Impactos da GC na engenharia de software e na inovação  
 
 ---
 
-## 🗓️ Conteúdos Trabalhados (Cronograma)
+## 🗂️ Conteúdo Programático (Resumo)
 
-Ao longo do semestre, foram abordados os seguintes temas:
-
-- Sociedade do conhecimento  
-- Inovação e competitividade organizacional  
-- Gestão do conhecimento e tomada de decisão  
-- Capital intelectual  
-- Ativos intangíveis  
-- Tecnologias para gestão do conhecimento  
-- Organizações que aprendem  
-- Aprendizagem organizacional  
-- Modelos baseados em conhecimento  
-
-O semestre contou com **trabalhos avaliativos**, **três provas (G1, G2 e G3)** e **revisão geral do conteúdo**.
+- **Unidade I:** Fundamentos da Gestão do Conhecimento  
+- **Unidade II:** Modelos, Processos e Tecnologias  
+- **Unidade III:** Aprendizagem Organizacional e Inovação  
 
 ---
 
-## 🧩 Relação com Engenharia de Software e IA
+## 🧪 Metodologia de Ensino
 
-A disciplina contribui diretamente para:
-- Arquitetura de sistemas de informação  
-- Projetos baseados em dados e conhecimento  
-- Inteligência Artificial como suporte à decisão  
-- Aprendizado organizacional como sistema adaptativo  
-- Construção de pipelines cognitivos (coleta → processamento → uso)  
+- Aulas expositivas dialogadas  
+- Atividades práticas  
+- Estudos de caso  
+- Resolução de problemas  
+- Seminários e atividades orientadas  
+- Palestras e visitas técnicas  
 
 ---
 
-## 📖 Referências
+## 📚 Referências
 
-As principais referências bibliográficas, artigos e materiais complementares utilizados ao longo da disciplina estão listados em:
+As referências bibliográficas básicas e complementares utilizadas na disciplina
+estão listadas em:
 
 📄 **`referencias.md`**
 
+Incluindo obras clássicas de Gestão do Conhecimento e materiais contemporâneos
+relacionados à **IA e Sociedade 5.0**.
+
 ---
 
-## 📝 Observação Final
+## 🧩 Observação Final
 
-Este repositório é parte de um **projeto maior de documentação acadêmica e profissional**, com foco em aprendizado profundo, pensamento crítico e integração entre teoria, tecnologia e prática.
-
-
-
+Este repositório faz parte de um **projeto acadêmico e profissional de longo prazo**,
+voltado à construção de conhecimento sólido, pensamento crítico e integração entre
+engenharia de software, gestão e inteligência artificial.
