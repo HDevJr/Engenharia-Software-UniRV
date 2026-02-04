@@ -19,6 +19,7 @@ O objetivo deste material **não é apenas acadêmico**, mas sim construir uma b
 
 ## 🧠 Estrutura do Repositório
 
+---
 
 ### 📂 01 — Fundamentos Teóricos
 Contém os conceitos iniciais da disciplina, incluindo:
