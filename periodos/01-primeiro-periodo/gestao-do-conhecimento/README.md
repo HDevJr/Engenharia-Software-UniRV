@@ -1,7 +1,7 @@
 # 📚 Gestão do Conhecimento — 2026/1°
 
 Este repositório documenta os estudos, análises, exercícios e reflexões da disciplina
-**Gestão do Conhecimento **, do curso de **Engenharia de Software**, cursada no
+**Gestão do Conhecimento**, do curso de **Engenharia de Software**, cursada no
 1º semestre de 2026.
 
 O material foi organizado com foco em **aprendizado profundo**, **pensamento crítico**
