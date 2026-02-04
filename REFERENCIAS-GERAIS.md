@@ -47,21 +47,3 @@ Para livros e artigos, use um padrão consistente. Sugestão simples:
 
 **Recurso online**
 - Nome do autor/organização. “Título”. Ano. Acesso em: AAAA-MM-DD.
-
-## 5) Lista inicial (para você preencher aos poucos)
-
-### Matemática
-- [ ] Livro principal de Álgebra Linear
-- [ ] Livro/curso de Estatística
-- [ ] Livro/curso de Otimização / Cálculo
-
-### Computação
-- [ ] Livro de Algoritmos e Estruturas de Dados
-- [ ] Livro de Sistemas Operacionais
-- [ ] Livro de Engenharia de Software (processo e arquitetura)
-- [ ] Livro de Banco de Dados
-
-### IA e Redes Neurais
-- [ ] Livro/curso de Machine Learning
-- [ ] Livro/curso de Deep Learning
-- [ ] Papers e leituras complementares (ao longo do curso)
