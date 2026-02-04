@@ -9,16 +9,6 @@ e **integração entre teoria organizacional, tecnologia e inteligência artific
 
 ---
 
-## 🏫 Identificação da Disciplina
-
-- **Curso:** Engenharia de Software  
-- **Disciplina:** Gestão do Conhecimento  
-- **Semestre:** 2026/1  
-- **Carga Horária:** 72 horas (Teórica)  
-- **Docente:** Prof. Me. Emanuel Victor de Moura Oliveira Barros  
-
----
-
 ## 📖 Ementa
 
 - Sociedade do conhecimento  
