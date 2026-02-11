@@ -128,7 +128,7 @@ Relações entre Engenharia de Software e:
 
 ---
 
-## 📚 Referênciasb
+## 📚 Referências
 
 As referências bibliográficas básicas e complementares utilizadas na disciplina estão listadas em:
  
